@@ -21,7 +21,7 @@ const spaceMono = Space_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Thrifted Solemate | Sneakers & Streetwear",
+  title: "The Shoe Company | Sneakers & Streetwear",
   description:
     "Nairobi's freshest thrifted sneaker & streetwear store. Authenticated kicks at real prices. Est. 2026.",
 };
