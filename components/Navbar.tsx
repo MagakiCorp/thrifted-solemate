@@ -30,8 +30,8 @@ export default function Navbar() {
             className="text-xl tracking-widest"
             style={{ fontFamily: "var(--font-bebas)" }}
           >
-            THRIFTED{" "}
-            <span style={{ color: "var(--ts-yellow)" }}>SOLEMATE</span>
+            THE SHOE{" "}
+            <span style={{ color: "var(--ts-yellow)" }}>COMPANY</span>
           </span>
         </Link>
 

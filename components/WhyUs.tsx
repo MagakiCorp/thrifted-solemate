@@ -44,7 +44,7 @@ export default function WhyUs() {
             className="text-5xl leading-none tracking-wider"
             style={{ fontFamily: "var(--font-bebas)" }}
           >
-            WHY <span style={{ color: "var(--ts-yellow)" }}>SOLEMATE?</span>
+            WHY <span style={{ color: "var(--ts-yellow)" }}>THE SHOE COMPANY?</span>
           </h2>
         </div>
 

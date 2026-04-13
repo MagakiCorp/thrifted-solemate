@@ -15,7 +15,7 @@ const reviews = [
   },
   {
     stars: 4,
-    text: "Thrifted Solemate is the real deal. Found a Yeezy I couldn't find anywhere else at that price point. Solid experience.",
+    text: "The Shoe Company is the real deal. Found a Yeezy I couldn't find anywhere else at that price point. Solid experience.",
     initials: "JO",
     name: "James O.",
     city: "Kisumu",

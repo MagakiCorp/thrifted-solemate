@@ -3,16 +3,16 @@ import Link from "next/link";
 const shopLinks = ["Sneakers", "Streetwear", "New Arrivals", "Sale"];
 const infoLinks = ["About Us", "How It Works", "Authentication", "Returns"];
 const contactLinks = [
-  { label: "WhatsApp Us", href: "https://wa.me/254700000000" },
-  { label: "Instagram", href: "https://instagram.com/thriftedsolemate" },
-  { label: "TikTok", href: "https://tiktok.com/@thriftedsolemate" },
-  { label: "hello@solemate.co.ke", href: "mailto:hello@solemate.co.ke" },
+  { label: "WhatsApp Us", href: "" },
+  { label: "Instagram", href: "" },
+  { label: "TikTok", href: "" },
+  { label: "hello@shoecompany.co.ke", href: "" },
 ];
 
 const socials = [
-  { label: "IG", href: "https://instagram.com/thriftedsolemate" },
-  { label: "TT", href: "https://tiktok.com/@thriftedsolemate" },
-  { label: "WA", href: "https://wa.me/254700000000" },
+  { label: "IG", href: "" },
+  { label: "TT", href: "" },
+  { label: "WA", href: "" },
 ];
 
 export default function Footer() {
@@ -30,8 +30,8 @@ export default function Footer() {
               className="mb-3 text-2xl tracking-widest"
               style={{ fontFamily: "var(--font-bebas)" }}
             >
-              THRIFTED{" "}
-              <span style={{ color: "var(--ts-yellow)" }}>SOLEMATE</span>
+              THE SHOE{" "}
+              <span style={{ color: "var(--ts-yellow)" }}>COMPANY</span>
             </p>
             <p
               className="text-xs leading-relaxed"
@@ -134,7 +134,7 @@ export default function Footer() {
               letterSpacing: "1px",
             }}
           >
-            © 2026 Thrifted Solemate · All rights reserved
+            © 2026 The Shoe Company · All rights reserved
           </span>
 
           <div className="flex gap-2">
